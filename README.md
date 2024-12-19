@@ -1,5 +1,7 @@
 # Firework Wars Lobby
 
+[![Project Status: Maintained](./assets/images/badges/status.svg)](./)
+
 > The lobby for the Minecraft mini-game '[Firework Wars](https://github.com/EsotericFoundation/firework-wars-plugin)'.
 
 ## License
