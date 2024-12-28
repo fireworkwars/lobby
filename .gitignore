@@ -20,3 +20,6 @@ DIM1
 
 # "Old" data file - not needed.
 level.dat_old
+
+# Datapacks - not needed for this project.
+datapacks
