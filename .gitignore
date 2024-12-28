@@ -23,3 +23,6 @@ level.dat_old
 
 # Datapacks - not needed for this project.
 datapacks
+
+# Data files - not important for the lobby.
+data
