@@ -26,3 +26,6 @@ datapacks
 
 # Data files - not important for the lobby.
 data
+
+# Entities - not needed (yet, at least).
+entities
