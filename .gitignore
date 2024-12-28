@@ -29,3 +29,6 @@ data
 
 # Entities - not needed (yet, at least).
 entities
+
+# POI folder (points of interest) - this is data on villagers, workstations, and some other stuff - not important for the lobby.
+poi
