@@ -32,3 +32,6 @@ entities
 
 # POI folder (points of interest) - this is data on villagers, workstations, and some other stuff - not important for the lobby.
 poi
+
+# IntellIJ IDEA data.
+.idea
